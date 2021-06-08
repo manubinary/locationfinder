@@ -1,0 +1,59 @@
+.mainHome {
+width: 100%
+}
+.mainHeader {
+  text-align: center;
+  margin: 0 !important;
+}
+
+.header {
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.content {
+    border: 1px solid #ccc;
+    align-items: center;
+    display: flex;
+}
+.mainContent {
+      padding: 32px 325px 0px 325px;
+      margin: 0 !important;
+}
+
+.validate {
+    padding-left: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.invalid  {
+  color: red !important;
+}
+
+.valid  {
+  color: green !important;
+}
+
+ .detailsContainer{
+  border: 1px solid #ccc;
+    border-radius: 12px;
+    margin-top: 59px;
+}
+
+.details {
+  margin-right: 20px;
+}
+
+.elementContainer {
+  border: 1px solid #ccc;
+  margin: 0px !important;
+}
+
+.element {
+  border-right: 1px solid #ccc;
+}
+
+.nearestDetailsContainer {
+  margin-bottom: 15px;
+}
