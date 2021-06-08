@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/locationfinder/static/css/main.6382a406.chunk.css",
+    "main.js": "/locationfinder/static/js/main.bbfcbc19.chunk.js",
+    "main.js.map": "/locationfinder/static/js/main.bbfcbc19.chunk.js.map",
+    "runtime-main.js": "/locationfinder/static/js/runtime-main.2741761b.js",
+    "runtime-main.js.map": "/locationfinder/static/js/runtime-main.2741761b.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/locationfinder/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.3cd9fde5.chunk.js": "/locationfinder/static/js/2.3cd9fde5.chunk.js",
+    "static/js/2.3cd9fde5.chunk.js.map": "/locationfinder/static/js/2.3cd9fde5.chunk.js.map",
+    "static/js/3.ce4f62c0.chunk.js": "/locationfinder/static/js/3.ce4f62c0.chunk.js",
+    "static/js/3.ce4f62c0.chunk.js.map": "/locationfinder/static/js/3.ce4f62c0.chunk.js.map",
+    "index.html": "/locationfinder/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/locationfinder/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.6382a406.chunk.css.map": "/locationfinder/static/css/main.6382a406.chunk.css.map",
+    "static/js/2.3cd9fde5.chunk.js.LICENSE.txt": "/locationfinder/static/js/2.3cd9fde5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2741761b.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.3cd9fde5.chunk.js",
+    "static/css/main.6382a406.chunk.css",
+    "static/js/main.bbfcbc19.chunk.js"
+  ]
+}
